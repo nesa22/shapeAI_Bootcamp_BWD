@@ -33,12 +33,12 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #cc0;
 }
 .note {
-  background: #fff;
-  border-radius: 7px;
-  box-shadow: 0 2px 5px #ccc;
+  background: #ffg;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px #cc0;
   padding: 9px;
   width: 230px;
   margin: 15px;
